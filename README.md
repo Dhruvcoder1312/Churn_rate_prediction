@@ -1,6 +1,6 @@
 ﻿**Project Report - Churn Prediction**
 
-*Ujjwal Ravani x Madhav Kamani*
+*By-Dhruv Bhasin*
 
 Starting off, we first want to understand and clean the dataset. We read the excel file, and look at the dataframe. It has 5630 customer entries and 20 parameters. There are some typos, some repeated values and other minor errors in the dataset. We clean the dataset, making it ready for analysis. Here are the different columns (parameters) and their unique values :
 
@@ -170,3 +170,4 @@ EDA Insights
 After applying the algorithms, we rank the features that contribute the most towards churn. Hence, looking at trends of the highest ranked features will give us the most accurate prediction of churn trends in the future.
 
 ![](Aspose.Words.78e962b8-d757-41c7-b0b5-fac59d51fe6a.025.jpeg)
+
