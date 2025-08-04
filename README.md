@@ -58,24 +58,18 @@ Here’s the correlation matrix of numerical features.![](Aspose.Words.78e962b8-
 
 
 2. Next, we looked at the percentage male users who churned vs % female users who churned
-
-   ![](Aspose.Words.78e962b8-d757-41c7-b0b5-fac59d51fe6a.006.jpeg)
+![Aspose Words 78e962b8-d757-41c7-b0b5-fac59d51fe6a 006](https://github.com/user-attachments/assets/2cfc7374-f903-41cb-a876-b31ab689f514)
 
 3\.
-
-![](Aspose.Words.78e962b8-d757-41c7-b0b5-fac59d51fe6a.007.jpeg)
+![Aspose Words 78e962b8-d757-41c7-b0b5-fac59d51fe6a 007](https://github.com/user-attachments/assets/ab5f253e-f065-4c75-9db5-cc58390ffedd)
 
 4. Analyzing parameters against City Tier
 1. Hours spent on app vs city tier
-
-   ![](Aspose.Words.78e962b8-d757-41c7-b0b5-fac59d51fe6a.008.jpeg)
+![Aspose Words 78e962b8-d757-41c7-b0b5-fac59d51fe6a 008](https://github.com/user-attachments/assets/e78c9aec-b38a-42b1-9ed7-ecc6d8867cd4)
 
 
 2. Tenure vs city tier
-
-![](Aspose.Words.78e962b8-d757-41c7-b0b5-fac59d51fe6a.009.jpeg)
-
-
+![Aspose Words 78e962b8-d757-41c7-b0b5-fac59d51fe6a 009](https://github.com/user-attachments/assets/5be7d00d-17c5-4f26-8b58-856d4b734858)
 
 |CityTier|Mean Tenure|
 | - | - |
@@ -84,64 +78,61 @@ Here’s the correlation matrix of numerical features.![](Aspose.Words.78e962b8-
 |3|9\.36|
 
 3. Distance of warehouse to home by city tier
+![Aspose Words 78e962b8-d757-41c7-b0b5-fac59d51fe6a 010](https://github.com/user-attachments/assets/4d4abb4e-d6bb-4b3f-af9c-fbd3421f81b9)
 
-![](Aspose.Words.78e962b8-d757-41c7-b0b5-fac59d51fe6a.010.jpeg)
 
 4. Preferred Order Category by City Tier
-
-![](Aspose.Words.78e962b8-d757-41c7-b0b5-fac59d51fe6a.011.png)
+<img width="631" height="324" alt="Aspose Words 78e962b8-d757-41c7-b0b5-fac59d51fe6a 011" src="https://github.com/user-attachments/assets/7f229373-153f-4e3d-bdc0-003da822b4f8" />
 
 5. Preferred Payment Mode by City Tier
+<img width="632" height="314" alt="Aspose Words 78e962b8-d757-41c7-b0b5-fac59d51fe6a 012" src="https://github.com/user-attachments/assets/bfe744f5-a088-4e4e-af74-e2db1c445632" />
 
-![](Aspose.Words.78e962b8-d757-41c7-b0b5-fac59d51fe6a.012.png)
 
 6. Cumulative orders per city tier
+<img width="631" height="340" alt="Aspose Words 78e962b8-d757-41c7-b0b5-fac59d51fe6a 013" src="https://github.com/user-attachments/assets/3353fb69-fd96-4b96-aa42-ba138d4f6161" />
 
-![](Aspose.Words.78e962b8-d757-41c7-b0b5-fac59d51fe6a.013.png)
 
 5. Churn Rate vs Preferred order category
+![Aspose Words 78e962b8-d757-41c7-b0b5-fac59d51fe6a 014](https://github.com/user-attachments/assets/7b901ca3-cb76-4527-b4ba-279b7028271b)
 
-![](Aspose.Words.78e962b8-d757-41c7-b0b5-fac59d51fe6a.014.jpeg)
+
 
 6. Churn Rate by Complain
-
-![](Aspose.Words.78e962b8-d757-41c7-b0b5-fac59d51fe6a.015.jpeg)
+![Aspose Words 78e962b8-d757-41c7-b0b5-fac59d51fe6a 015](https://github.com/user-attachments/assets/832540d7-4f4c-46f2-8e3b-74adcb1ce7c8)
 
 7. Days Since Last order vs Complain
+![Aspose Words 78e962b8-d757-41c7-b0b5-fac59d51fe6a 016](https://github.com/user-attachments/assets/2160bdcb-b1d1-4cab-a41a-22b0b823ae6d)
 
-![](Aspose.Words.78e962b8-d757-41c7-b0b5-fac59d51fe6a.016.jpeg)
 
 8\.
+![Aspose Words 78e962b8-d757-41c7-b0b5-fac59d51fe6a 017](https://github.com/user-attachments/assets/f5ea66d7-4840-4ed6-83e6-9a84636e7864)
 
-![](Aspose.Words.78e962b8-d757-41c7-b0b5-fac59d51fe6a.017.jpeg)
 
 9\.
+<img width="631" height="341" alt="Aspose Words 78e962b8-d757-41c7-b0b5-fac59d51fe6a 018" src="https://github.com/user-attachments/assets/9b9e472b-5bcf-4c00-b032-06053391c252" />
 
-![](Aspose.Words.78e962b8-d757-41c7-b0b5-fac59d51fe6a.018.png)
 
 10\.
+<img width="483" height="355" alt="Aspose Words 78e962b8-d757-41c7-b0b5-fac59d51fe6a 019" src="https://github.com/user-attachments/assets/0b1f56ef-9eec-4af5-851c-4b69d57daec3" />
 
-![](Aspose.Words.78e962b8-d757-41c7-b0b5-fac59d51fe6a.019.png)
 
 11\.
+<img width="631" height="335" alt="Aspose Words 78e962b8-d757-41c7-b0b5-fac59d51fe6a 020" src="https://github.com/user-attachments/assets/05e2825b-d692-4b16-8cac-374929cae7f8" />
 
-![](Aspose.Words.78e962b8-d757-41c7-b0b5-fac59d51fe6a.020.png)
 
 12. Churn % by device type
+![Aspose Words 78e962b8-d757-41c7-b0b5-fac59d51fe6a 021](https://github.com/user-attachments/assets/157fdf77-7451-4597-878d-9e0db69d3ab6)
 
-![](Aspose.Words.78e962b8-d757-41c7-b0b5-fac59d51fe6a.021.jpeg)
 
 13. Churn % by Satisfaction Score
-
-![](Aspose.Words.78e962b8-d757-41c7-b0b5-fac59d51fe6a.022.jpeg)
+![Aspose Words 78e962b8-d757-41c7-b0b5-fac59d51fe6a 022](https://github.com/user-attachments/assets/13892179-3abe-4b7b-a256-12361115cf61)
 
 14\.
-
-![](Aspose.Words.78e962b8-d757-41c7-b0b5-fac59d51fe6a.023.jpeg)
+![Aspose Words 78e962b8-d757-41c7-b0b5-fac59d51fe6a 023](https://github.com/user-attachments/assets/9eea366f-e739-493e-b420-eae4a246283e)
 
 15\.
+<img width="631" height="311" alt="Aspose Words 78e962b8-d757-41c7-b0b5-fac59d51fe6a 024" src="https://github.com/user-attachments/assets/361e680f-b92a-4e15-b900-77098f47b444" />
 
-![](Aspose.Words.78e962b8-d757-41c7-b0b5-fac59d51fe6a.024.png)
 
 EDA Insights
 
@@ -172,8 +163,9 @@ EDA Insights
 - As expected, customers who’ve complained, tend to churn more.
 
 After applying the algorithms, we rank the features that contribute the most towards churn. Hence, looking at trends of the highest ranked features will give us the most accurate prediction of churn trends in the future.
+![Aspose Words 78e962b8-d757-41c7-b0b5-fac59d51fe6a 025](https://github.com/user-attachments/assets/47ac8ebc-98fc-4abd-bc56-b70b60f0d3d1)
 
-![](Aspose.Words.78e962b8-d757-41c7-b0b5-fac59d51fe6a.025.jpeg)
+
 
 
 
