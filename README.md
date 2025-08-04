@@ -37,11 +37,12 @@ For the EDA part, we first decide the questions we want to ask, which would then
 
 (strings), to understand the data at a high level we first look at the density plot of these features :
 
-![](Aspose.Words.78e962b8-d757-41c7-b0b5-fac59d51fe6a.002.png)
+
+<img width="656" height="327" alt="Aspose Words 78e962b8-d757-41c7-b0b5-fac59d51fe6a 002" src="https://github.com/user-attachments/assets/035d9b71-0344-4281-8ecb-a91b02254fa6" />
 
 b.
+<img width="667" height="330" alt="Aspose Words 78e962b8-d757-41c7-b0b5-fac59d51fe6a 003" src="https://github.com/user-attachments/assets/0a0c6c9e-93e3-4536-ad95-d39c93398400" />
 
-![](Aspose.Words.78e962b8-d757-41c7-b0b5-fac59d51fe6a.003.png)
 
 c.
 
@@ -171,5 +172,6 @@ EDA Insights
 After applying the algorithms, we rank the features that contribute the most towards churn. Hence, looking at trends of the highest ranked features will give us the most accurate prediction of churn trends in the future.
 
 ![](Aspose.Words.78e962b8-d757-41c7-b0b5-fac59d51fe6a.025.jpeg)
+
 
 
