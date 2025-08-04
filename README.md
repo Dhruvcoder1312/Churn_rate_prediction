@@ -45,15 +45,17 @@ b.
 
 
 c.
+![3_chrun](https://github.com/user-attachments/assets/74cd07e5-0da9-493c-a5f8-636f2918a676)
 
 Here’s the correlation matrix of numerical features.![](Aspose.Words.78e962b8-d757-41c7-b0b5-fac59d51fe6a.004.jpeg)
 
 
 2\.
+<img width="539" height="264" alt="4_churn'" src="https://github.com/user-attachments/assets/f6d10c20-0d5e-4a5f-959b-d4f74ec7e8d8" />
 
 1. To find out the relationship b/w gender and churn, we find the % churned users who are male vs female
+![Aspose Words 78e962b8-d757-41c7-b0b5-fac59d51fe6a 006](https://github.com/user-attachments/assets/541a7eef-2609-429a-ba87-e0b2d64aa1ec)
 
-![](Aspose.Words.78e962b8-d757-41c7-b0b5-fac59d51fe6a.005.png)
 
 2. Next, we looked at the percentage male users who churned vs % female users who churned
 
@@ -172,6 +174,7 @@ EDA Insights
 After applying the algorithms, we rank the features that contribute the most towards churn. Hence, looking at trends of the highest ranked features will give us the most accurate prediction of churn trends in the future.
 
 ![](Aspose.Words.78e962b8-d757-41c7-b0b5-fac59d51fe6a.025.jpeg)
+
 
 
 
